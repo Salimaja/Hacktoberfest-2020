@@ -148,5 +148,8 @@
  - place: Jambi,Indonesia
  - Bio : IS Student,Localhost Sysadmin
  - Github : [ilham](https://github.com/IlhamSetiawan)
-
+### Name : Salim
+ - place : Medan Sumatera, Indonesia
+ - Bio   : Student
+ - Github : [E. SALIM](https://github.com/Salimaja)
 
